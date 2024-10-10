@@ -1,4 +1,4 @@
-# 20-Sorting-Algorithms
+# Sorting-Algorithms
 ## Overview
 
 This repository contains implementations of three popular sorting algorithms written in C++:
